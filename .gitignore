@@ -1,3 +1,4 @@
 
 # Arquivos Ignorado
+!.gitignore
 *.php
