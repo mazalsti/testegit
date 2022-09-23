@@ -2,3 +2,4 @@
 # Arquivos Ignorado
 #-------------------------
 /vendor
+*.php
